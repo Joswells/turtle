@@ -1,0 +1,22 @@
+{
+  "name": "turtle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joswells/turtle.git"
+  },
+  "author": "Joswells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joswells/turtle/issues"
+  },
+  "homepage": "https://github.com/Joswells/turtle#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
