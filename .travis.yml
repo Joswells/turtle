@@ -7,4 +7,6 @@ scripts:
   - jest test.js
 
 notifications:
-  email: wagnerjr300@gmail.com
+  email: 
+    - ufrapl21@gmail.com
+    - wagnerjr300@gmail.com
